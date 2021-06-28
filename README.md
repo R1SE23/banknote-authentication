@@ -5,7 +5,7 @@
 ## Usage 
 Run webapp using the command below
 ```
-Run python flask_api.py 
+python flask_api.py 
 ```
 
 ## Docker build image
